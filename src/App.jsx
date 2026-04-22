@@ -8,7 +8,7 @@ function App() {
 		time === 'Daily' ? 'Day' : time === 'Weekly' ? 'Week' : 'Month'
 
 	return (
-		<main className="flex flex-col md:flex-row justify-center items-center md:items-start gap-[6rem] md:gap-4 max-w-[90rem] text-white py-10 font-rub mx-auto">
+		<main className="flex flex-col md:flex-row justify-center items-center md:items-start gap-[6rem] md:gap-4 max-w-[90rem] text-white py-10 font-rub mx-auto lg:mt-40">
 			<div className="bg-dark-blue rounded-xl w-[20rem] h-[12.5rem] md:h-[34rem] lg:h-[31.8rem] mb-[-4rem] lg:mb-4">
 				<div className="bg-dark-purple flex md:flex-col px-5 items-center md:items-start md:p-9 w-[20rem] h-[8.5rem] md:h-[21rem] rounded-xl">
 					<img
