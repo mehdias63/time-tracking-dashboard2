@@ -1,8 +1,35 @@
-# React + Vite
+# Frontend Mentor - Time tracking dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the
+[Time tracking dashboard challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw).
+Frontend Mentor challenges help you improve your coding skills by
+building realistic projects.
 
-Currently, two official plugins are available:
+## Table of contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Frontend Mentor - Time tracking dashboard](#frontend-mentor---time-tracking-dashboard)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+
+## Overview
+
+### Screenshot
+
+![](./screenshot.PNG)
+
+### Links
+
+- Solution URL:
+  [https://github.com/mehdias63/time-tracking-dashboard2]
+- Live Site URL: [https://time-tracking-dashboard2-seven.vercel.app/]
+
+## My process
+
+### Built with
+
+- [React](https://reactjs.org/) - JS library
+- [Tailwind](https://tailwindcss.com/) - For styles
